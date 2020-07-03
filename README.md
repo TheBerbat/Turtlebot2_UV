@@ -1,4 +1,6 @@
-# Turtlebot 2 - Tareas de desinfecciónc
+# Turtlebot 2 - Tareas de desinfección
+
+Breve descipción del proyecto.
 
 ## Instalacion de librerías necesarias
 
